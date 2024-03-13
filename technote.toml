@@ -13,11 +13,12 @@ license.id = "CC-BY-4.0"
 state = "draft"
 
 [[technote.authors]]
-name.given = "Marc"
-name.family = "Moniez"
-internal_id = "moniezm"
+name.given = "Sylvie"
+name.family = "Dagoret-Campagne"
+internal_id = "dagorets"
 
 [[technote.authors.affiliations]]
-name = "Laboratoire de l'Accélérateur Linéaire"
-internal_id = "Paris-LAL"
-address = "CNRS/IN2P3, Université de Paris-Sud, B.P. 34, 91898 Orsay Cedex, France"
+name = "Laboratoire de Physique des 2 infinis Irène Joliot-Curie – IJCLab"
+internal_id = "Paris-IJCLAB"
+address = "Université Paris-Saclay, CNRS/IN2P3, Bât. 100, 15 rue Georges Clémenceau, 91405 Orsay, France"
+
